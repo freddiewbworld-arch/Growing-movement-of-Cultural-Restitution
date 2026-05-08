@@ -8,5 +8,6 @@ The files were all stored in md format because of its ease of use and balance be
 
 Transformations Applied:
 After the original articles had been scraped an concatenated into a single md file. 
-It was necessary to clean the excess text that was not part of the articles. The headers, names of other articles at the bottom of the article. The text gathered from the bottom of the page also had to be removed. All information was attempted to be removed except for the main body of the article, its title and the date it was written. 
+It was necessary to clean the excess text that was not part of the articles. The headers, names of other articles at the bottom of the article. The text gathered from the bottom of the page also had to be removed. 
+All information was attempted to be removed except for the main body of the article, its title and the date it was written. 
 Due to the complications in which parts of the articles were necessary to removed, it was judged that manualing removing the additional text would be faster than writing code utilising modules such as Spacy to remove the necessary complications.
