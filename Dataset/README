@@ -4,3 +4,10 @@ All articles were taken from the website Returning Heritgae webstie, the link to
 Case Studies | UK Restitutions’, n.d. <https://www.returningheritage.com/case-studies>
 
 All 32 articles taken were from the UK Case studies section of the website.
+The files were all stored in md format because of its ease of use and balance between readability and structure
+
+Transformations Applied:
+After the original articles had been scraped an concatenated into a single md file. 
+It was necessary to clean the excess text that was not part of the articles. The headers, names of other articles at the bottom of the article.
+Due to the complications in which parts of the articles were necessary to removed.
+It was judged that manualing removing the additional text would be faster than writing code utilising modules such as Spacy to remove the necessary complications.
